@@ -1,0 +1,2 @@
+# Analyzing-COVID-19-Datasets-with-Predictive-Analysis-via-Linear-Regression
+Project provides a comprehensive guide on importing CSV files from Kaggle to Google Colab. It walks through the process of setting up and running the environment, &amp; demonstrates the application of predictive analysis techniques, specifically linear regression. The goal is to construct models and perform predictive analysis using the provided data.
